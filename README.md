@@ -10,8 +10,8 @@ Ampliar el sistema de notificaciones para soportar nuevos tipos de mensajes:
 
 Cada notificación debe permitir:
 
-1. **Enviar el mensaje** (`sendMessage()`)
-2. **Registrar el mensaje en un log** (`logMessage()`)
+1. **Enviar el mensaje** (`sendMessage()`).
+2. **Registrar el mensaje en un log** (`logMessage()`).
 
 ---
 
