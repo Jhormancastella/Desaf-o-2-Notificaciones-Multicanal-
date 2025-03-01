@@ -56,7 +56,7 @@ Cada notificación debe permitir:
 ### 📥 Clonar Repositorio
 
 ```bash
-git clone https://github.com/Jhormancastella/Desaf-o-2-Notificaciones-Multicanal-.git
+git clone https://github.com/Jhormancastella/Desafio-2-Notificaciones-Multicanal-.git
 ```
 
 ### 🛠️ Compilar y Ejecutar
